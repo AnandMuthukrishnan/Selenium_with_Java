@@ -4,6 +4,7 @@ public class EvenOrNot
 {
 static void check(int a)
 {
+	//Tried Multiple if and else if statements 
 	if (a>0 && a%2==0) 
 	{
 		System.out.println(a+" is an Even Number");

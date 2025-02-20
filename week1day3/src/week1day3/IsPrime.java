@@ -1,11 +1,9 @@
 package week1day3;
 
 public class IsPrime {
-	private static final boolean True = false;
-	private static final boolean False = false;
 
 	public static void main(String[] args) {
-		int n = 141;
+		int n = 49;
 		boolean isprime = true;
 		for (int i = 2; i <= (n - 1); i++) {
 			if (n % i == 0) {

@@ -31,6 +31,11 @@ public class String_methods {
 				else {
 					System.out.println("Instantiated values were not matching,because java assigns different Memory space");
 				}
+				
+				String text4 = "Anand";
+				System.out.println(text4.length());
+				System.out.println(text4);
+				System.out.println(text4.charAt(3));
 		
 	}
 

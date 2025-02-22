@@ -1,6 +1,6 @@
 package week1day4;
 
-public class Palindrome_number {
+public class Palindrome_number_using_while_loop {
 
 	public static void main(String[] args) {
 		int a = 121, i = 0, n = 0;

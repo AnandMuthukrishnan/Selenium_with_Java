@@ -1,0 +1,27 @@
+package isprime;
+
+public class Primenumber_check {
+
+	static boolean isprime_check(int a) {
+		boolean isprime = true;
+		for (int i = 3; i < (a + 1) / 2; i++) {
+
+			if (a % i == 0) {
+				isprime = false;
+				break;
+			} else {
+				continue;
+			}
+		}
+		return isprime;
+	}
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int a = 11;
+		Primenumber_check p = new Primenumber_check();
+		System.out.println(p.isprime_check(a));
+
+	}
+
+}

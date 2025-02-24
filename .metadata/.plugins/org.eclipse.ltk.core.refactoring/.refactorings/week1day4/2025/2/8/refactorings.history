@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;week1day4.Palindrome_number.java&apos; to &apos;Palindrome_number_using_while_loop.java&apos;&#x0D;&#x0A;- Original project: &apos;week1day4&apos;&#x0D;&#x0A;- Original element: &apos;week1day4.Palindrome_number.java&apos;&#x0D;&#x0A;- Renamed element: &apos;week1day4.Palindrome_number_using_while_loop.java&apos;" description="Rename compilation unit &apos;Palindrome_number.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;week1day4{Palindrome_number.java" name="Palindrome_number_using_while_loop.java" references="false" stamp="1740248403960" version="1.0"/>
+</session>

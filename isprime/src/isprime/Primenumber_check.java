@@ -18,7 +18,7 @@ public class Primenumber_check {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		int a = 1;
+		int a = 11;
 		Primenumber_check p = new Primenumber_check();
 		if(a<=2||a%2!=0)
 		{

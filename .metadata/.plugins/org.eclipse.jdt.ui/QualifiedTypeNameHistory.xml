@@ -4,4 +4,10 @@
     <fullyQualifiedTypeName name="week1day2.EvenOrNot"/>
     <fullyQualifiedTypeName name="isprime.Primenumber_check"/>
     <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="java.lang.Thread"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.By"/>
+    <fullyQualifiedTypeName name="week2day4.Rbi"/>
+    <fullyQualifiedTypeName name="week2day4.Hdfcbank"/>
+    <fullyQualifiedTypeName name="week2day4.HdfcHq"/>
+    <fullyQualifiedTypeName name="week2day4.ConcreteClass"/>
 </qualifiedTypeNameHistroy>
